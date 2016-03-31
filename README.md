@@ -47,3 +47,4 @@ cd [NAME] && mvn compile test package
 * Initial commit
 * Refactored to be more idiomatic Scala, removed SSLContextService
 * Fixed incorrect version in version.sbt
+* Updated default NiFi to 0.6.0 and Scala to 2.11.8
