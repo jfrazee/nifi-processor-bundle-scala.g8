@@ -4,7 +4,7 @@ A [giter8](https://github.com/n8han/giter8) template for generating a new Scala 
 
 ## Overview
 
-The giter8 template is configured for Maven and scala 2.11.7 and includes:
+The giter8 template is configured for Maven, Scala 2.11.7, and Java 1.8 and includes:
 
 * `main` and `test` source directories
 * [NiFi](https://github.com/apache/nifi)
@@ -45,3 +45,4 @@ cd [NAME] && mvn compile test package
 ### 0.0.1
 
 * Initial commit
+* Refactored to be more idiomatic Scala, removed SSLContextService
