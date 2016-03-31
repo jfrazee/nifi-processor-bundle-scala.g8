@@ -46,3 +46,4 @@ cd [NAME] && mvn compile test package
 
 * Initial commit
 * Refactored to be more idiomatic Scala, removed SSLContextService
+* Fixed incorrect version in version.sbt
