@@ -36,7 +36,7 @@ To get started using the template:
 
 ```
 brew install giter8
-g8 jfrazee/nifi-processor-bundle.g8
+g8 jfrazee/nifi-processor-bundle-scala.g8
 cd [NAME] && mvn compile test package
 ```
 
