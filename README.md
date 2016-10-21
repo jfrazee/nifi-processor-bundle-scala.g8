@@ -42,6 +42,10 @@ cd [NAME] && mvn compile test package
 
 ## Changelog
 
+### 0.0.2
+
+* Updated default NiFi to 1.0.0
+
 ### 0.0.1
 
 * Initial commit
