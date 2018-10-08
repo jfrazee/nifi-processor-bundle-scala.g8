@@ -1,6 +1,6 @@
 # nifi-processor-bundle-scala.g8
 
-A [giter8](https://github.com/n8han/giter8) template for generating a new Scala NiFi processor bundle.
+A [giter8](https://github.com/foundweekends/giter8.g8) template for generating a new Scala NiFi processor bundle.
 
 ## Overview
 

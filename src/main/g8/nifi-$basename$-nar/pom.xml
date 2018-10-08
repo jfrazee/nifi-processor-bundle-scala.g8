@@ -32,11 +32,6 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.apache.nifi</groupId>
-            <artifactId>nifi-standard-services-api-nar</artifactId>
-            <type>nar</type>
-        </dependency>
-        <dependency>
             <groupId>$organization$</groupId>
             <artifactId>nifi-$basename$-processors</artifactId>
             <version>$version$</version>
