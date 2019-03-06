@@ -4,7 +4,7 @@ A [giter8](https://github.com/n8han/giter8) template for generating a new Scala 
 
 ## Overview
 
-The giter8 template is configured for Maven, Scala 2.11.7, and Java 1.8 and includes:
+The giter8 template is configured for Maven, Scala 2.12.8, and Java 1.8 and includes:
 
 * `main` and `test` source directories
 * [NiFi](https://github.com/apache/nifi)
