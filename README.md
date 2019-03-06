@@ -42,6 +42,11 @@ cd [NAME] && mvn compile test package
 
 ## Changelog
 
+### 0.0.3
+
+* Updated default NiFi to 1.9.0
+* Updated default Scala to 2.12
+
 ### 0.0.2
 
 * Updated default NiFi to 1.0.0
